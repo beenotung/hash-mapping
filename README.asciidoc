@@ -1,0 +1,4 @@
+= hash mapping
+
+1. to (roughly) test hash speed
+2. to build a (simple) rainbow table
